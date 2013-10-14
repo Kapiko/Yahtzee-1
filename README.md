@@ -7,5 +7,13 @@ An interesting feature of this program is that it also supports MULTIPLAYER! Whe
 
 This was a project made for AP Computer Science at the East Brunswick High School in 2011. As a student, I was ahead of the rest of the AP class and got an opportunity to attempt this program before all of the other students. Once the idea of Yahtzee was established as a feasable project for the class, all of the students were to work on it in groups of 3+. This particular program was finished way ahead of the rest in the class and was a solo project. Yahtzee was the very first real Object-Oriented program that I have created. 
 
+A screenshot of Yahtzee can be found at http://www.codeniko.net/code/yahtzee.jpg
 
 Shout out to Mr. Craig Newman, my former AP Computer Science teacher!
+
+COMPILATION/EXECUTION
+===
+You can compile Yahtzee manually, do it like so:
+<pre>javac Die.java DieFaces.java ExFrame.java MousePressListener.java DiceComponent.java Yahtzee.java YahtzeeScore.java</pre>
+You can then play Yahtzee by running:
+<pre>java Yahtzee</pre>
